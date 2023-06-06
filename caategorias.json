@@ -16,10 +16,6 @@
     "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
-  },
-  {
     "category": "Ingles",
     "description": "Preguntas relacionadas el lenguaje de habla inglesa."
   }
